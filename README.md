@@ -1,2 +1,1 @@
-# hello-world
-It's my world
+This project is created for learning git.
